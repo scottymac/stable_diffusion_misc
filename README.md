@@ -2,7 +2,7 @@
 Miscellaneous code for Stable Diffusion stuff.
 
 ### Textual Inversion Colab Notebook
-Changs to the original:
+Changes to the original:
 - Allow custom captioning
 - Zip file of all embeddings (and a handy download button)
 - Little QoL things like custom embed filenames etc
